@@ -17,5 +17,5 @@ screenshot*
 .gradle/
 build/
 .idea
-release.properties
+#release.properties
 crashlytics.properties

@@ -1,6 +1,7 @@
 #
 # Build configuration for Circle CI
 #
+# https://gist.github.com/donnfelker/7189cad9c6654f918e7e
 
 general:
     artifacts:
